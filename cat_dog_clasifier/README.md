@@ -1,0 +1,1 @@
+For better accuracy and less loss i used transfer learning rather then training model from scratch
