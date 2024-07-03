@@ -1,1 +1,1 @@
-digit classification using CNN
+digit classification using CNN artitecture
