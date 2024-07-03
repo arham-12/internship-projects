@@ -1,1 +1,1 @@
-3rd project 
+Build a sentiment analysis model by using LSTM
