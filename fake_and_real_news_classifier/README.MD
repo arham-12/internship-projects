@@ -1,0 +1,1 @@
+Real and fake news classifier using LSTMs and Wordtovec model 

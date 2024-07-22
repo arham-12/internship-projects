@@ -1,0 +1,1 @@
+After researching for 2 days i found easy and efficient way to train object detction model on our costom dataset 
